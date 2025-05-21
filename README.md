@@ -15,7 +15,7 @@ From the scanlines refrence i guess you needed to reorder the horizontal lines o
 I used this python script; https://github.com/SadEmoji/Python_scripts/blob/main/Image_slicer.py
 to slice the image into the lines 1 pixel high with the full width.
 
-Then i used this python scripthttps://github.com/SadEmoji/Python_scripts/blob/main/Image_arrange_sort_color.py
+Then i used this python script; https://github.com/SadEmoji/Python_scripts/blob/main/Image_arrange_sort_color.py
 to sort the lines based on brightness of the colors and add them back into a image
 I got this image from it;
 ![Skärmavbild 2025-05-20 kl  12 42 59](https://github.com/user-attachments/assets/a5a0194e-dc1a-4df9-9041-848f0c50afc4)
