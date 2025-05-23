@@ -1,5 +1,5 @@
-# Glotchy_writeup
-Writeup for the Glotcy chall from MidnightCTF
+# Glotch_writeup
+Writeup for the Glotc chall from MidnightCTF
 
 
 (dont have any links of image off the challsplay/website)
